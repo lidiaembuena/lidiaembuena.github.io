@@ -6,7 +6,7 @@ description:Hola!
 I am Lídia Embuena. I was born in Barcelona and for the last 9 years, I have lived in great cities like San Francisco, Edinburgh and London where I have grown as a person and professionally. I recently moved to New York city with my family, and I am discovering the opportunities that the city offers me and enjoying 
 I have a bachelor's degree in Pedagogy and Education Science and I have extensive experience in teaching, course design, and education project coordination. Following my interest in the social aspects of technology, during the last years, I focused my career in the tech industry where I have worked in data analysis, quality assurance, UX, and localization for major tech companies. 
 I am currently studying an MSc in Digital Education at the University of Edinburgh (fully online) with the main intention to develop and consolidate my skills in the e-learning arena./> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/lidiaembuena" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
